@@ -1,7 +1,7 @@
 # **SQL CHALLENGE**
 
 ## **Overview**
-Welcome to the Pewlett Hackard Employee Database Project! This repository contains data engineering and analysis tasks focused on historical employee data from the 1980s and 1990s. The project involves designing database tables, importing CSV data into a SQL database, and performing various data analysis queries.
+This repository contains data engineering and analysis tasks focused on historical employee data, and various employees data. The project involves designing database tables, importing CSV data into a SQL database, and performing various data analysis queries.
 
 ## **Key Components of the Report**
 Data Modeling: Look through CSV files to see which columns had relationship with one another.

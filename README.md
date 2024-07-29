@@ -9,14 +9,14 @@ Data Modeling: Look through CSV files to see which columns had relationship with
 Data Engineering: Create SQL table schemas for each CSV file, specifying data types, primary keys, foreign keys, and constraints. Import CSV data into corresponding SQL tables.
 
 ## **Data Analysis:**
-List employee details such as employee number, last name, first name, sex, and salary.
-Identify employees hired in 1986 and list their first name, last name, and hire date.
-List department managers with their department number, department name, employee number, last name, and first name.
-Associate each employee with their department number, employee number, last name, first name, and department name.
-Filter and list employees named "Hercules" whose last names start with "B", displaying their first name, last name, and sex.
-Retrieve details of employees in the Sales department, including their employee number, last name, and first name.
-Retrieve details of employees in both the Sales and Development departments, including their employee number, last name, first name, and department name.
-List employee last names by frequency, showing how many employees share each last name in descending order.
+Listed employee details such as employee number, last name, first name, sex, and salary.
+Identified employees hired in 1986 and listed their first name, last name, and hire date.
+Listed department managers with their department number, department name, employee number, last name, and first name.
+Associated each employee with their department number, employee number, last name, first name, and department name.
+Filtered and listed employees named "Hercules" whose last names started with "B", displaying their first name, last name, and sex.
+Retrieved details of employees in the Sales department, including their employee number, last name, and first name.
+Retrieved details of employees in both the Sales and Development departments, including their employee number, last name, first name, and department name.
+Listed employee last names by frequency, showing how many employees shared each last name in descending order.
 
 ## **Update**
 Pushed ERD into PNG file, for direct view of the relationship between the columns.
